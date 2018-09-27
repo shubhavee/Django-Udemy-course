@@ -1,0 +1,25 @@
+body{
+background:url(https://images.pexels.com/photos/60204/pexels-photo-60204.jpeg?auto=compress&cs=tinysrgb&h=350);
+background-repeat: no-repeat;
+
+}
+
+div{
+background: blue;
+border-color: red;
+border-width: 5px;
+border-style: double;
+
+}
+
+p{
+  color:yellow;
+
+}
+
+span{
+  background: red;
+  color:black;
+
+}
+/*  */
