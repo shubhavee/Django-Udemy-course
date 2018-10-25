@@ -1,0 +1,51 @@
+body{
+  background-color: #001a33;
+  text-align: center;
+  color: white;
+  border: #45f69e 40px solid;
+  border-top: 0px;
+}
+
+h1{
+  font-size: 50px;
+}
+
+h2{
+  font-size: 33px;
+  padding-bottom: 40px;
+}
+
+
+p{
+  font-size: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+
+  font-family: 'AlexBrushRegular';
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+input{
+  width: 30%;
+  height: 30px;
+
+}
+
+#one{
+  padding-bottom: 40px;
+}
+
+#three{
+  font-size: 36px;
+  padding-bottom: 20px;
+  font-weight: bold;
+}
+
+#sub{
+  border-radius: 10px;
+  height: 60px;
+  width: 175px;
+  background-color: #EA8E04;
+}
